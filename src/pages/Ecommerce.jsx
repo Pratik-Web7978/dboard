@@ -308,7 +308,7 @@ const Ecommerce = () => {
               alt=""
             />
             <div className="mt-8">
-              <p className="font-semibold text-lg">Dboard is the future!</p>
+              <p className="font-semibold text-lg">Dboard is the future!!</p>
               <p className="text-gray-400 ">By Pratyusha </p>
               <p className="mt-8 text-sm text-gray-400">
                 This will be the small description for the news you have shown
